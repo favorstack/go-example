@@ -7,7 +7,7 @@ import (
 )
 
 func main() {
-	fmt.Println("Hello World!")
+	fmt.Println("Hello, World!")
 
 	s := "悠云白雁过南楼"
 	fmt.Println(s)
