@@ -11,6 +11,7 @@ func main() {
 
 	s := "悠云白雁过南楼"
 	fmt.Println(s)
-	// 使用反转函数 
+
+	// 使用反转函数
 	fmt.Println(stringutil.Reverse(s))
 }
